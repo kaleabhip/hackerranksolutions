@@ -4,4 +4,4 @@ This is a record of my soltions to different problems found on HackerRank websit
 
 Feel free to refer to the solutions for help. Though please try it yourself first and keep up the spirit of problem solving.
 
-###*Happy Coding!!!*
+### *Happy Coding!!!*
